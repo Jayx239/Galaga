@@ -1,0 +1,1 @@
+fill(handles.EnemyShip(1,1:4),handles.EnemyShip(1,5:8),'b',handles.EnemyShip(2,1:4),handles.EnemyShip(2,5:8),'b',handles.EnemyShip(3,1:4),handles.EnemyShip(3,5:8),'r',handles.EnemyShip(4,1:4),handles.EnemyShip(4,5:8),'r');
