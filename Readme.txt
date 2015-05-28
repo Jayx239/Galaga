@@ -1,5 +1,8 @@
 Galaga App
-
+An app written in MATLAB that utilizes an accelerometer connected through an arduino uno microprocessor.
+Written by Jason Gallagher
+	   Allan Michel
+	   Laura Worley
 Galaga 
 
 The galaga app is a user friendly gaming app. The object of the game is to shoot the incoming ships while dodging their 
